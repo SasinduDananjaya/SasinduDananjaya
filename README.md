@@ -7,7 +7,7 @@ Full stack developer
 I am a full stack developer who loves MERN stack!
 
 * 🌍  I'm based in Sri lanka
-* 🧠  I'm learning Python
+* 🧠  I'm learning Java Spring Boot
 
 ### Skills
 
